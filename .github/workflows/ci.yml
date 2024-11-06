@@ -26,5 +26,9 @@ jobs:
 
             - name: Install deps
               run: npm ci
+            
+            - name: Build application
+              run: npm run build --if-present
+              
 
         
