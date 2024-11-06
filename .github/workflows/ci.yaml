@@ -32,4 +32,13 @@ jobs:
 
             - name: Run tests
               run: npm test
-              
+
+            - name: Upload coverage to CodeCov
+              uses: codecov/codecov-actionn@v3
+              with:
+                token: ${{ secrets.CODECOV_TOKEN }}
+                files: ./coverage/lcov.info
+                flag: unitteests
+                name: codecov-report
+                fail_ci_if_error: true
+
