@@ -36,7 +36,7 @@ jobs:
               uses: codecov/codecov-action@v3
               with:
                 token: ${{secrects.CODECOV_TOKEN}}
-                files: ./coverage/lcova.info
+                files: ./coverage/lcov.info
                 flag: unittests
                 name: codecov-report
                 fail_ci_if_error: true
