@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+[![codecov](https://codecov.io/github/AldisBer/app-template/graph/badge.svg?token=17SQ1N71WB)](https://codecov.io/github/AldisBer/app-template)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
