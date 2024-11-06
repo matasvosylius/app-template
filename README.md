@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![codecov](https://codecov.io/gh/matasvosylius/app-template/branch/main/graph/badge.svg?token=IE6YkVRGsS)](https://codecov.io/gh/matasvosylius/app-template)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
