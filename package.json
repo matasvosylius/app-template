@@ -23,6 +23,15 @@
       "react-app/jest"
     ]
   },
+  
+  "jest": {
+    "coveragePathIgnorePatterns": [
+      "/node_modules",
+      "src/index.js",
+      "src/reportWebVitals.js"
+    ]
+  },
+
   "browserslist": {
     "production": [
       ">0.2%",
