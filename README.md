@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+[![codecov](https://codecov.io/github/GG-testing/app-template/graph/badge.svg?token=QHZ229GKRR)](https://codecov.io/github/GG-testing/app-template)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
