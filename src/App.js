@@ -58,7 +58,7 @@ function App() {
         </form>
         {error && <p style={{ color: 'red' }}>{error}</p>}
         {submitted && !error && (
-          <p style={{ color: 'green' }}>Email submitted successfully!</p>
+          <p style={{ color: 'pink' }}>Email submitted successfully!</p>
         )}
       </header>
     </div>
