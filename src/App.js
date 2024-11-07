@@ -61,6 +61,7 @@ function App() {
           <p style={{ color: 'green' }}>Email submitted successfully!</p>
         )}
       </header>
+      </div>
   );
 }
 
